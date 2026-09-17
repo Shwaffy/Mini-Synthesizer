@@ -1,0 +1,5 @@
+This is the first entry of the project.
+The aim of this entry is to walk through the design philosophy of this project as well as establish our goals.
+In order to construct the synthesizer, we will be using a Top-Down design in which the UI will be constructed first, followed by the hardware, GUI, and code
+This is done because I don't want to limit the design to what I believe will be easy to do, rather, I want to create a device I think will be fun to actually use
+With this stated, much of the UI will be directly inspired from the HiChord Pocket Synth, but that will be where the similarities end in the design process.
