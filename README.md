@@ -5,5 +5,5 @@ The aim for the product was to design a feature rich midi compatible and standal
 This design is in no way meant to compete with features of the original product, just serve as a proof of concept of the capabilities DIY Tech has, drawing on inspiration from the 
 UI and very basic features of the original.
 
-The original product in question is the _**Pocket Synth**_ by _**Hichord**_, as linked below
+The original product in question is the _**Pocket Synth**_ by _**Hichord**_, as linked below\n
 https://hichord.shop/
